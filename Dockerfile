@@ -1,6 +1,6 @@
 FROM tianon/latex
 
 RUN apt-get update && apt-get install -y \
-		python-pygments \
+        python-pygments \
         git \
-	&& rm -rf /var/lib/apt/lists/*
+    && rm -rf /var/lib/apt/lists/*
