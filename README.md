@@ -3,3 +3,4 @@
 Based on `tianon/latex` also includes:
 
 - `pygments`
+- `git`
